@@ -148,6 +148,7 @@ interface LinkTag {
   type?: string;
   color?: string;
   keyOverride?: string;
+  as?: string;
 }
 
 export interface BaseMetaTag {
